@@ -2,6 +2,8 @@
 > output register does not work properly, main problem is that `I/O` pins are pulled up high. so, the output stays high no matter what. except that everything works just fine.
 
 ![click image to view clearly](images/main.SVG)
+> [!NOTE]
+> open the image in a new tab, for better view
 
 ## test #0001
 custom assembly instructions, name it whatever you want.
